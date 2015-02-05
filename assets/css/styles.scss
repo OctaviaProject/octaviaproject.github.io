@@ -1,0 +1,109 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+$font-text: 'Radley', serif;
+$font-headline: 'Nunito', sans-serif;
+$primary-purple: #9B99FF;
+$secondary-purple: #C1BFFF;
+$primary-yellow: #EFF0C0; 
+$text-color: #D6D6D6;
+$background-color: rgba(25, 25, 25, 0.2);;
+
+body {
+  font-family: $font-text;
+  background-color: $background-color;
+  background-image: url('../img/stardust.png');
+  font-size: 1.9em; 
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h1, h2, h3 {
+  font-family: $font-headline;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 2em;
+  color: $primary-yellow;
+}
+h2 {
+  text-align: center;
+  font-size: 1.2em;
+  color: $primary-purple;
+}
+
+p {
+  color: $text-color;
+  margin-bottom: 20px;
+}
+
+a {
+    color: $primary-purple;
+}
+a:visited {
+    color: #secondary-purple;
+}
+a:hover {
+    color: #D4BFFF;
+    text-decoration: none;
+}
+
+
+
+.header,
+.main,
+.footer {
+  padding: 30px;
+}
+
+.header {
+  margin-bottom: 20px;
+}
+
+.main {
+  box-shadow: 0 0 4px rgba(250, 250, 250, 0.2);
+  background-color: $background-color;
+}
+
+.footer {
+  padding-top: 19px;
+}
+
+.container {
+  padding: 30px;
+  max-width: 960px;
+}
+
+div.manifesto {
+  font-size: 1.2em; 
+}
+div.flower {
+  text-align: center;
+  clear: both;
+  margin: 30px;
+}
+img.img-carousel {
+  width: 900px;
+  height: 500px;
+}
+
+/* Responsive: Portrait tablets and up 
+@media screen and (min-width: 468px) {
+   Remove the padding we set earlier 
+  .header,
+  .main,
+  .footer {
+    padding-right: 0;
+    padding-left: 0;
+  }
+  .header {
+    margin-bottom: 30px;
+  }
+  .main {
+    background-color: $background-color;
+    padding-top: 20px;
+  }
+}*/

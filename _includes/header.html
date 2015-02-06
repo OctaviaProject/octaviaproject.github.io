@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <link rel="icon" href="{{ site.url }}/assets/img/favicon.ico">
 
-    <title>{{ site.name }}</title>
+    <title>The Octavia Project</title>
 
     <link href='http://fonts.googleapis.com/css?family=Nunito:400,700|Radley:400,400italic' rel='stylesheet' type='text/css'>
     <link href="{{ site.url }}/assets/css/bootstrap.min.css" rel="stylesheet">
@@ -29,4 +29,27 @@
       <div class="header">
         <img src="{{ site.url }}/assets/img/logo_lg.png">
       </div>
+      <div class="navbar row">
+        <div class="col-md-1"></div>
+        
+        {% assign current = page.url | downcase | split: '/' %}
+        
+        <div {% if current[1] == 'index.html' %}class="col-md-2 active"{% else %}class="col-md-2"{% endif %}>
+          <a href="/">Home</a>
+        </div>
+        <div {% if current[1] == 'about.html' %}class="col-md-2 active"{% else %}class="col-md-2"{% endif %}>
+          <a href="/about.html">About</a>
+        </div>
+        <div {% if current[1] == 'blog.html' %}class="col-md-2 active"{% else %}class="col-md-2"{% endif %}>
+          <a href="/blog.html">Blog</a>
+        </div>
+        <div {% if current[1] == 'join.html' %}class="col-md-2 active"{% else %}class="col-md-2"{% endif %}>
+          <a href="/join.html">Join</a>
+        </div>
+        <div {% if current[1] == 'donate.html' %}class="col-md-2 active"{% else %}class="col-md-2"{% endif %}>
+          <a href="/donate.html">Donate</a>
+        </div>
+        
+      </div>
+      
       <div class="main">

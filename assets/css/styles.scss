@@ -6,15 +6,17 @@ $font-text: 'Radley', serif;
 $font-headline: 'Nunito', sans-serif;
 $primary-purple: #9B99FF;
 $secondary-purple: #C1BFFF;
+$darker-purple: #807EE6;
 $primary-yellow: #EFF0C0; 
-$text-color: #D6D6D6;
-$background-color: rgba(25, 25, 25, 0.2);;
+$text-color: #EBEBEB;
+$background-color: rgba(25, 25, 25, 0.2);
 
 body {
   font-family: $font-text;
-  background-color: $background-color;
+  background-color: #000000;
   background-image: url('../img/stardust.png');
-  font-size: 1.9em; 
+  //background-image: url(http://www.transparenttextures.com/patterns/notebook.png);
+  font-size: 1.8em; 
   padding-top: 20px;
   padding-bottom: 20px;
 }
@@ -34,6 +36,9 @@ h2 {
   font-size: 1.2em;
   color: $primary-purple;
 }
+h3 {
+  color: $primary-yellow;
+}
 
 p {
   color: $text-color;
@@ -43,15 +48,10 @@ p {
 a {
     color: $primary-purple;
 }
-a:visited {
-    color: #secondary-purple;
-}
 a:hover {
-    color: #D4BFFF;
+    color: $secondary-purple;
     text-decoration: none;
 }
-
-
 
 .header,
 .main,
@@ -88,6 +88,34 @@ div.flower {
 img.img-carousel {
   width: 900px;
   height: 500px;
+}
+
+.navbar {
+  margin: 0 auto;
+}
+.navbar div {
+  font-family: $font-headline;
+  font-size: 1.7em;
+  float: left;
+  text-align:center;
+}
+.navbar div.active {
+  border-bottom: 5px solid $darker-purple;
+}
+.navbar div a {
+  -webkit-transition: width 1s, height 1s, color 1s, -webkit-transform 1s;
+  transition:width 1s, height 1s, color 1s, transform 1s;
+}
+.navbar div a:hover {
+  color: $primary-yellow;
+  -webkit-transition: width 1s, height 1s, color 1s, -webkit-transform 1s;
+  transition:width 1s, height 1s, color 1s, transform 1s;
+}
+img.bio {
+  float: left;
+  width:350px;
+  border-radius:10%;
+  margin-right: 30px;
 }
 
 /* Responsive: Portrait tablets and up 

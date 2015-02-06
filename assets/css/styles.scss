@@ -12,6 +12,7 @@ $text-color: #EBEBEB;
 $background-color: rgba(25, 25, 25, 0.2);
 
 body {
+  color: $text-color;
   font-family: $font-text;
   background-color: #000000;
   background-image: url('../img/stardust.png');
@@ -41,7 +42,6 @@ h3 {
 }
 
 p {
-  color: $text-color;
   margin-bottom: 20px;
 }
 
@@ -53,14 +53,14 @@ a:hover {
     text-decoration: none;
 }
 
-.header,
 .main,
 .footer {
-  padding: 30px;
+  padding: 40px;
 }
 
 .header {
-  margin-bottom: 20px;
+  padding: 0px 30px 35px 30px;
+  text-align: center;
 }
 
 .main {
@@ -80,6 +80,11 @@ a:hover {
 div.manifesto {
   font-size: 1.2em; 
 }
+
+div.about {
+  font-size: 1.1em; 
+}
+
 div.flower {
   text-align: center;
   clear: both;

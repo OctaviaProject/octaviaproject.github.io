@@ -46,11 +46,11 @@ p {
 }
 
 a {
-    color: $primary-purple;
+  color: $primary-purple;
 }
 a:hover {
-    color: $secondary-purple;
-    text-decoration: none;
+  color: $secondary-purple;
+  text-decoration: none;
 }
 
 .main,
@@ -73,7 +73,6 @@ a:hover {
 }
 
 .container {
-  padding: 30px;
   max-width: 960px;
 }
 
@@ -93,6 +92,10 @@ div.flower {
 img.img-carousel {
   width: 900px;
   height: 500px;
+}
+
+img#logo {
+  width: 90%;
 }
 
 .navbar {
@@ -118,13 +121,13 @@ img.img-carousel {
 }
 img.bio {
   float: left;
-  width:350px;
-  border-radius:10%;
+  width: 350px;
+  border-radius: 10%;
   margin-right: 30px;
 }
 
-/* Responsive: Portrait tablets and up 
-@media screen and (min-width: 468px) {
+// Smaller than landscape tablet
+@media screen and (max-width: 768px) {
    Remove the padding we set earlier 
   .header,
   .main,
@@ -136,7 +139,14 @@ img.bio {
     margin-bottom: 30px;
   }
   .main {
-    background-color: $background-color;
+    box-shadow: none;
+    background-color: transparent;
     padding-top: 20px;
   }
-}*/
+  .navbar div.active {
+    border: 2px solid $primary-purple;
+  }
+  img.bio {
+    margin-bottom: 10px;
+  }
+}

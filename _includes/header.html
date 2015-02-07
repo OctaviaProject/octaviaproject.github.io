@@ -27,26 +27,25 @@
 
     <div class="container">
       <div class="header">
-        <img src="{{ site.url }}/assets/img/logo_lg.png">
+        <img id="logo" src="{{ site.url }}/assets/img/logo_lg.png">
       </div>
       <div class="navbar row">
-        <div class="col-md-1"></div>
         
         {% assign current = page.url | downcase | split: '/' %}
         
-        <div {% if current[1] == 'index.html' %}class="col-md-2 active"{% else %}class="col-md-2"{% endif %}>
+        <div {% if current[1] == 'index.html' %}class="col-xs-12 col-sm-2 col-sm-offset-1 active"{% else %}class="col-xs-12 col-sm-2 col-sm-offset-1"{% endif %}>
           <a href="/">Home</a>
         </div>
-        <div {% if current[1] == 'about.html' %}class="col-md-2 active"{% else %}class="col-md-2"{% endif %}>
+        <div {% if current[1] == 'about.html' %}class="col-xs-12 col-sm-2 active"{% else %}class="col-xs-12 col-sm-2"{% endif %}>
           <a href="/about.html">About</a>
         </div>
-        <div {% if current[1] == 'blog.html' %}class="col-md-2 active"{% else %}class="col-md-2"{% endif %}>
+        <div {% if current[1] == 'blog.html' %}class="col-xs-12 col-sm-2 active"{% else %}class="col-xs-12 col-sm-2"{% endif %}>
           <a href="/blog.html">Blog</a>
         </div>
-        <div {% if current[1] == 'join.html' %}class="col-md-2 active"{% else %}class="col-md-2"{% endif %}>
+        <div {% if current[1] == 'join.html' %}class="col-xs-12 col-sm-2 active"{% else %}class="col-xs-12 col-sm-2"{% endif %}>
           <a href="/join.html">Join</a>
         </div>
-        <div {% if current[1] == 'donate.html' %}class="col-md-2 active"{% else %}class="col-md-2"{% endif %}>
+        <div {% if current[1] == 'donate.html' %}class="col-xs-12 col-sm-2 active"{% else %}class="col-xs-12 col-sm-2"{% endif %}>
           <a href="/donate.html">Donate</a>
         </div>
         

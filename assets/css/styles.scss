@@ -98,10 +98,6 @@ img#logo {
   width: 90%;
 }
 
-img.bio {
-  width: 100%;
-}
-
 .navbar {
   margin: 0 auto;
 }
@@ -125,7 +121,7 @@ img.bio {
 }
 img.bio {
   float: left;
-  width: 350px;
+  width: 46%;
   border-radius: 10%;
   margin-right: 30px;
 }
@@ -152,6 +148,13 @@ img.bio {
     border: 2px solid $primary-purple;
   }
   img.bio {
+    margin-right: 15px;
     margin-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  img.bio {
+    width:100%;
   }
 }

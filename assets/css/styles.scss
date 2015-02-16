@@ -3,7 +3,7 @@
 ---
 
 $font-text: 'Lato', sans-serif;
-$font-headline: 'Varela Round', sans-serif;
+$font-headline: 'Varela', sans-serif;
 $font-weight: 300;
 $primary-purple: #9B99FF;
 $secondary-purple: #C1BFFF;
@@ -26,6 +26,7 @@ body {
 
 h1, h2, h3 {
   font-family: $font-headline;
+  font-weight: 400;
 }
 
 h1 {

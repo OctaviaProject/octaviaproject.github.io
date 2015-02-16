@@ -4,6 +4,7 @@
 
 $font-text: 'Lato', sans-serif;
 $font-headline: 'Varela Round', sans-serif;
+$font-weight: 300;
 $primary-purple: #9B99FF;
 $secondary-purple: #C1BFFF;
 $darker-purple: #807EE6;
@@ -14,6 +15,7 @@ $background-color: rgba(25, 25, 25, 0.2);
 body {
   color: $text-color;
   font-family: $font-text;
+  font-weight: $font-weight;
   background-color: black;
   background-image: url('../img/stardust.png');
   //background-image: url(http://www.transparenttextures.com/patterns/notebook.png);

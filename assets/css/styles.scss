@@ -29,17 +29,20 @@ h1, h2, h3 {
 }
 
 h1 {
+  font-family: $font-headline;
   text-align: center;
   margin-bottom: 30px;
   font-size: 2em;
   color: $primary-yellow;
 }
 h2 {
+  font-family: $font-headline;
   text-align: center;
   font-size: 1.2em;
   color: $primary-purple;
 }
 h3 {
+  font-family: $font-headline;
   color: $primary-yellow;
 }
 

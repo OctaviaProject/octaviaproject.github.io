@@ -2,8 +2,8 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
-$font-text: 'Radley', serif;
-$font-headline: 'Nunito', sans-serif;
+$font-text: 'Lato', sans-serif;
+$font-headline: 'Varela Round', sans-serif;
 $primary-purple: #9B99FF;
 $secondary-purple: #C1BFFF;
 $darker-purple: #807EE6;
@@ -52,6 +52,7 @@ $donate-hover: #EFF0C0;
 body {
   color: $text-color;
   font-family: $font-text;
+  font-weight: 300;
   background-color: black;
   background-image: url('../img/stardust.png');
   //background-image: url(http://www.transparenttextures.com/patterns/notebook.png);
@@ -61,7 +62,8 @@ body {
 }
 
 h1, h2, h3 {
-  font-family: $font-headline;
+  font-family: $font-headline; 
+  font-weight: 400;
 }
 
 h1 {
@@ -144,6 +146,7 @@ img#logo {
 }
 .navbar div {
   font-family: $font-headline;
+  font-weight: 400;
   font-size: 1.7em;
   float: left;
   text-align:center;

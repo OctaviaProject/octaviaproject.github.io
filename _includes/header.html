@@ -34,19 +34,19 @@
         
         {% assign current = page.url | downcase | split: '/' %}
         
-        <div {% if current[1] == 'index.html' %}class="col-xs-12 col-sm-2 col-sm-offset-1 active"{% else %}class="col-xs-12 col-sm-2 col-sm-offset-1"{% endif %}>
+        <div id='home' {% if current[1] == 'index.html' %}class="col-xs-12 col-sm-2 col-sm-offset-1 active"{% else %}class="col-xs-12 col-sm-2 col-sm-offset-1"{% endif %}>
           <a href="/">Home</a>
         </div>
-        <div {% if current[1] == 'about.html' %}class="col-xs-12 col-sm-2 active"{% else %}class="col-xs-12 col-sm-2"{% endif %}>
+        <div id='about' {% if current[1] == 'about.html' %}class="col-xs-12 col-sm-2 active"{% else %}class="col-xs-12 col-sm-2"{% endif %}>
           <a href="/about.html">About</a>
         </div>
-        <div {% if current[1] == 'blog.html' %}class="col-xs-12 col-sm-2 active"{% else %}class="col-xs-12 col-sm-2"{% endif %}>
+        <div id='blog' {% if current[1] == 'blog.html' %}class="col-xs-12 col-sm-2 active"{% else %}class="col-xs-12 col-sm-2"{% endif %}>
           <a href="/blog.html">Blog</a>
         </div>
-        <div {% if current[1] == 'join.html' %}class="col-xs-12 col-sm-2 active"{% else %}class="col-xs-12 col-sm-2"{% endif %}>
+        <div id='join' {% if current[1] == 'join.html' %}class="col-xs-12 col-sm-2 active"{% else %}class="col-xs-12 col-sm-2"{% endif %}>
           <a href="/join.html">Join</a>
         </div>
-        <div {% if current[1] == 'donate.html' %}class="col-xs-12 col-sm-2 active"{% else %}class="col-xs-12 col-sm-2"{% endif %}>
+        <div id='donate' {% if current[1] == 'donate.html' %}class="col-xs-12 col-sm-2 active"{% else %}class="col-xs-12 col-sm-2"{% endif %}>
           <a href="/donate.html">Donate</a>
         </div>
         

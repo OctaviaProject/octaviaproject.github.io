@@ -11,6 +11,44 @@ $primary-yellow: #EFF0C0;
 $text-color: #EBEBEB;
 $background-color: rgba(25, 25, 25, 0.2);
 
+// Colorful navbar 
+$home-color: #C7C7FF;
+$home-hover: #9A99FF;
+$about-color: #EEC5FB;
+$about-hover: #E799FF;
+$blog-color: #F7C3DC;
+$blog-hover: #FF99CA;
+$join-color: #F3CFC1;
+$join-hover: #FFB499;
+$donate-color: #EEEFC0;
+$donate-hover: #FDFF99;
+
+/*
+// RGB gradient navbar 
+$home-color: #9B99FF;
+$home-hover: #4642FF;
+$about-color: #C0BFF2;
+$about-hover: #A2A0FF;
+$blog-color: #E5E5E5;
+$blog-hover: #FFFFFF;
+$join-color: #F1F2BF;
+$join-hover: #FDFFA0;
+$donate-color: #FDFF99;
+$donate-hover: #FBFF42;
+
+// Normal navbar
+$home-color: #B6B6FF;
+$home-hover: #EFF0C0;
+$about-color: #B6B6FF;
+$about-hover: #EFF0C0;
+$blog-color: #B6B6FF;
+$blog-hover: #EFF0C0;
+$join-color: #B6B6FF;
+$join-hover: #EFF0C0;
+$donate-color: #B6B6FF;
+$donate-hover: #EFF0C0;
+*/
+
 body {
   color: $text-color;
   font-family: $font-text;
@@ -41,6 +79,7 @@ h2 {
 }
 h3 {
   color: $primary-yellow;
+  margin-top: 0px;
 }
 
 p {
@@ -61,7 +100,7 @@ a:hover {
 }
 
 .header {
-  padding: 0px 30px 35px 30px;
+  padding: 0px 30px 15px 30px;
   text-align: center;
 }
 
@@ -98,6 +137,8 @@ img.img-carousel {
 
 img#logo {
   width: 90%;
+  margin-top: 10px;
+  margin-bottom: 5px;
 }
 
 .navbar {
@@ -110,18 +151,66 @@ img#logo {
   float: left;
   text-align:center;
 }
-.navbar div.active {
-  border-bottom: 5px solid $darker-purple;
+
+.navbar div#home.active {
+  border-bottom: 5px solid $home-color;
 }
+.navbar div#home a {
+  color: $home-color;
+}
+.navbar div#home a:hover {
+  color: $home-hover;
+}
+
+.navbar div#about.active {
+  border-bottom: 5px solid $about-color;
+}
+.navbar div#about a {
+  color: $about-color;
+}
+.navbar div#about a:hover {
+  color: $about-hover;
+}
+
+.navbar div#blog.active {
+  border-bottom: 5px solid $blog-color;
+}
+.navbar div#blog a {
+  color: $blog-color;
+}
+.navbar div#blog a:hover {
+  color: $blog-hover;
+}
+
+.navbar div#join.active {
+  border-bottom: 5px solid $join-color;
+}
+.navbar div#join a {
+  color: $join-color;
+}
+.navbar div#join a:hover {
+  color: $join-hover;
+}
+
+.navbar div#donate.active {
+  border-bottom: 5px solid $donate-color;
+}
+.navbar div#donate a {
+  color: $donate-color;
+}
+.navbar div#donate a:hover {
+  color: $donate-hover;
+}
+
 .navbar div a {
   -webkit-transition: width 1s, height 1s, color 1s, -webkit-transform 1s;
   transition:width 1s, height 1s, color 1s, transform 1s;
 }
 .navbar div a:hover {
-  color: $primary-yellow;
   -webkit-transition: width 1s, height 1s, color 1s, -webkit-transform 1s;
   transition:width 1s, height 1s, color 1s, transform 1s;
 }
+
 img.bio {
   float: left;
   width: 46%;

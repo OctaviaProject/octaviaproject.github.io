@@ -1,10 +1,13 @@
-{% include header.html %}
+{% include blog_header.html %}
 
+<div class="post">
   <h1>{{ page.title }}</h1>
-  <h3>{{ page.author }}</h3>
-  <h2>{{ page.date | date: "%-d %B %Y" }}</h2>
+  <h2 class="post-header">{{ page.date | date: "%-d %B %Y" }}</h2>
+  <h3 class="post-header">{{ page.author }}</h3>
   <div>
       {{ content }}
   </div>
+  <div class="flower"><img src="{{ site.url }}/assets/img/flower.png"></div>
+</div>
 
 {% include footer.html %}

@@ -1,0 +1,137 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+$font-text: 'Lato', sans-serif;
+$font-headline: 'Varela Round', sans-serif;
+$primary-purple: #9B99FF;
+$secondary-purple: #C1BFFF;
+$darker-purple: #807EE6;
+$text-color: black;
+$text-subtle: #bbb;
+
+div#blog-header {
+  margin-bottom: 60px;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+  padding: 10px;
+}
+
+span#blog-title {
+  color: $darker-purple;
+}
+
+body {
+  color: $text-color;
+  font-family: $font-text;
+  background-image: url('../img/inverted-stardust.png');
+  font-size: 1.8em;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h1, h2, h3 {
+  font-family: $font-headline;
+  color: $darker-purple;
+}
+
+h1 {
+  text-align: left;
+  margin-bottom: 30px;
+  font-size: 2.5em;
+}
+
+h2.post-header {
+  text-align: left;
+  //display: inline-block;
+  font-size: 1.2em;
+  border: 1px solid rgba(0,0,0,0.1);
+  border-left: none;
+  border-right: none;
+  padding: 8px 0px 8px 0px;
+  color: $text-subtle;
+}
+h3.post-header {
+  color: $darker-purple;
+  font-size: 0.8em;
+  text-align: right;
+  font-style: oblique;
+  margin-top: 10px;
+  margin-bottom: 3em;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+a {
+  color: $darker-purple;
+}
+a:hover {
+  color: $primary-purple;
+  text-decoration: none;
+}
+
+.main,
+.footer {
+  width: 70%;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+.header {
+  padding: 0px 30px 15px 30px;
+  text-align: center;
+}
+
+.footer {
+  width: 70%;
+  margin: 0 auto;
+  padding-top: 19px;
+}
+
+.container {
+  max-width: 960px;
+}
+
+ul.recent-posts {
+  line-height: 1.75em;
+  list-style-type: none;
+}
+
+span.recent-post-date {
+  margin-right: 10px;
+  color: $text-subtle;
+}
+
+// Smaller than landscape tablet
+@media screen and (max-width: 768px) {
+   Remove the padding we set earlier 
+  .header,
+  .main,
+  .footer {
+    padding-right: 0;
+    padding-left: 0;
+  }
+  .header {
+    padding: 0px;
+    margin-bottom: 30px;
+  }
+  .main {
+    box-shadow: none;
+    background-color: transparent;
+    padding-top: 20px;
+  }
+  .navbar div.active {
+    border: 2px solid $primary-purple;
+  }
+  img.bio {
+    margin-right: 15px;
+    margin-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  img.bio {
+    width:100%;
+  }
+}

@@ -236,8 +236,20 @@ img.bio {
     background-color: transparent;
     padding-top: 20px;
   }
-  .navbar div.active {
+  .navbar div#home.active {
     border: 2px solid $primary-purple;
+  }
+  .navbar div#about.active {
+    border: 2px solid $about-color;
+  }
+  .navbar div#blog.active {
+    border: 2px solid $blog-color;
+  }
+  .navbar div#join.active {
+    border: 2px solid $join-color;
+  }
+  .navbar div#donate.active {
+    border: 2px solid $donate-color;
   }
   img.bio {
     margin-right: 15px;

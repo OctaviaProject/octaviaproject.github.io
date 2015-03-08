@@ -50,6 +50,7 @@ h2.post-header {
   padding: 8px 0px 8px 0px;
   color: $text-subtle;
 }
+
 h3.post-header {
   color: $darker-purple;
   font-size: 0.8em;
@@ -66,6 +67,7 @@ p {
 a {
   color: $darker-purple;
 }
+
 a:hover {
   color: $primary-purple;
   text-decoration: none;
@@ -76,11 +78,6 @@ a:hover {
   width: 70%;
   margin: 0 auto;
   padding: 40px;
-}
-
-.header {
-  padding: 0px 30px 15px 30px;
-  text-align: center;
 }
 
 .footer {
@@ -105,33 +102,14 @@ span.recent-post-date {
 
 // Smaller than landscape tablet
 @media screen and (max-width: 768px) {
-   Remove the padding we set earlier 
   .header,
   .main,
   .footer {
-    padding-right: 0;
-    padding-left: 0;
+    width: 90%;
+    padding-right: 0px;
+    padding-left: 0px;
   }
-  .header {
-    padding: 0px;
-    margin-bottom: 30px;
-  }
-  .main {
-    box-shadow: none;
-    background-color: transparent;
-    padding-top: 20px;
-  }
-  .navbar div.active {
-    border: 2px solid $primary-purple;
-  }
-  img.bio {
-    margin-right: 15px;
-    margin-bottom: 10px;
-  }
-}
-
-@media screen and (max-width: 420px) {
-  img.bio {
-    width:100%;
+  h1 {
+    font-size: 2em;
   }
 }

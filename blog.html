@@ -2,21 +2,25 @@
 ---
 {% include blog_header.html %}
 
-<div class="post">
-  <h1>{{ site.posts.first.title }}</h1>
-  <h2 class="post-header">{{ site.posts.first.date | date: "%-d %B %Y" }}</h2>
-  <h3 class="post-header">{{ site.posts.first.author }}</h3>
-  <div>
-      {{ site.posts.first.content }}
+  {% for post in site.posts limit: 3 %}
+  <div class="post">
+    <h1>{{ post.title }}</h1>
+    <h2 class="post-header">{{ post.date | date: "%-d %B %Y" }}</h2>
+    <h3 class="post-header">{{ post.author }}</h3>
+    <div>
+      {{ post.content }}
+    </div>
   </div>
   <div class="flower"><img src="{{ site.url }}/assets/img/flower.png"></div>
+  {% endfor %}
 
+  <div class="post">
     <h2 class="post-header">Recent posts</h2>
     <ul class="recent-posts">
       {% for post in site.posts %}
       <li><span class="recent-post-date">{{ post.date | date: "%-d %B %Y" }}</span><a href="{{ post.url }}">{{ post.title }}</a></li>
       {% endfor %}
     </ul>
-</div>
+  </div>
 
 {% include footer.html %}

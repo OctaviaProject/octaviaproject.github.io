@@ -125,9 +125,13 @@ div.about {
   font-size: 1.1em; 
 }
 
-img.img-carousel {
-  width: 900px;
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
   height: 500px;
+  margin: 0 auto;
+}
+
+.carousel-caption {
+  background-color: rgba(0,0,0,0.5);
 }
 
 img#logo {

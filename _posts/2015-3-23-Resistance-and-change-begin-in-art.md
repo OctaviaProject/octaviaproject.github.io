@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Resistance and Change Begin in Art: Ursula K. Le Guin at the National Book Awards"
+title: "Resistance and Change Begin in Art"
+subtitle: "Ursula K. Le Guin at the National Book Awards"
 author: Meghan
 ---
 At the 2014 National Book Awards, revolutionary science-fiction author Ursula K. Le Guin was <a target="_blank" href="http://www.nationalbook.org/amerletters_2014_uleguin.html#.VRAgMxB4pps"> awarded the Medal for Distinguished Contribution to American Letters<a/>, an award which recognizes writers who have made a significant impact on the country's literary tradition. During her acceptance speech, the distinguished author spoke of the dangers of a profit-focused publishing industry and the limited vision of art that is produced for marketing purposes. 

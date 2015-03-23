@@ -9,6 +9,7 @@ $secondary-purple: #C1BFFF;
 $darker-purple: #807EE6;
 $text-color: black;
 $text-subtle: #bbb;
+$text-subtitle: #A777E3;
 
 div#blog-header {
   margin-bottom: 60px;
@@ -36,13 +37,20 @@ h1, h2, h3 {
 
 h1 {
   text-align: left;
-  margin-bottom: 30px;
-  font-size: 2.5em;
+  font-size: 2.0em;
 }
 
 h2 {
   margin-bottom: 20px;
   margin-top: 35px;
+}
+
+h2.post-subtitle {
+  text-align: left;
+  font-size: 1.0em;
+  color: $primary-purple;
+  font-style: oblique;
+  margin: 0px 0px 0px 0px;
 }
 
 h2.post-header {

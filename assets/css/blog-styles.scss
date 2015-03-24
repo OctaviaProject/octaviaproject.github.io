@@ -7,18 +7,43 @@ $font-headline: 'Varela Round', sans-serif;
 $primary-purple: #9B99FF;
 $secondary-purple: #C1BFFF;
 $darker-purple: #807EE6;
+$yellow: #EFF0C0; 
 $text-color: black;
 $text-subtle: #bbb;
 $text-subtitle: #A777E3;
 
-div#blog-header {
-  margin-bottom: 60px;
-  border-bottom: 1px solid rgba(0,0,0,0.1);
-  padding: 10px;
+div#blog-header-bg {
+  background: url('../img/blog-header.png') no-repeat;
+  background-size: 100%;
+  margin-top: -20px;
+  width: 100%;
+  height: 120px;
+  border-bottom: 5px solid rgba(0,0,0,0.5);
+  overflow:hidden;
 }
 
-span#blog-title {
-  color: $darker-purple;
+div#blog-header {
+  height: 120px; 
+  padding-top: 70px;
+  padding: 10px;
+  margin-top: -100px;
+}
+
+span.blog-title > a, span.blog-title > a:visited{
+  color: white;
+}
+span.blog-title > a:hover {
+  color: $yellow;
+  text-decoration: none;
+}
+
+span.blog-title {
+  font-size: 1.2em;
+  color: #ffffff;
+}
+span#op-home{
+  float: right;
+  margin-left: 10px;
 }
 
 body {
@@ -55,7 +80,6 @@ h2.post-subtitle {
 
 h2.post-header {
   text-align: left;
-  //display: inline-block;
   font-size: 1.2em;
   border: 1px solid rgba(0,0,0,0.1);
   border-left: none;
@@ -64,8 +88,8 @@ h2.post-header {
   color: $text-subtle;
 }
 
-h3.post-header {
-  color: $darker-purple;
+h3.author {
+  color: $primary-purple;
   font-size: 0.8em;
   text-align: right;
   font-style: oblique;
@@ -78,11 +102,11 @@ p {
 }
 
 a {
-  color: $darker-purple;
+  color: $primary-purple;
 }
 
 a:hover {
-  color: $primary-purple;
+  color: $darker-purple;
   text-decoration: none;
 }
 
@@ -125,4 +149,24 @@ span.recent-post-date {
   h1 {
     font-size: 2em;
   }
+  div#blog-header-bg {
+    background-size: 100% 100%;
+  }
+}
+
+@media screen and (max-width: 440px) {
+  div#blog-header {
+    margin-top: -140px;
+    text-align: center;
+  }
+  span#op-home {
+    clear: both;
+    float: none;
+    margin-left: 0px;
+  }
+}
+
+blockquote {
+  font-style: italic;
+  font-size: 0.9em;
 }

@@ -7,7 +7,7 @@
     <a href="{{ post.url }}"><h1>{{ post.title }}</h1></a>
     <h2 class="post-subtitle">{{ post.subtitle }}</h2>
     <h2 class="post-header">{{ post.date | date: "%-d %B %Y" }}</h2>
-    <h3 class="post-header">{{ post.author }}</h3>
+    <h3 class="author">{{ post.author }}</h3>
     <div>
       {{ post.content }}
     </div>
@@ -19,7 +19,12 @@
     <h2 class="post-header">Recent posts</h2>
     <ul class="recent-posts">
       {% for post in site.posts %}
-      <li><span class="recent-post-date">{{ post.date | date: "%-d %B %Y" }}</span><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li>
+        <span class="recent-post-date">
+          {{ post.date | date: "%-d %B %Y" }}
+        </span>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
       {% endfor %}
     </ul>
   </div>

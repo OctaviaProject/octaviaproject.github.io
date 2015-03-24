@@ -14,7 +14,7 @@ The author's conclusion? Make movie franchises from Octavia Butler's work!
 
 >"Butler simultaneously confronts a myriad of oppressions and portrays her black protagonist’s success as not only 
 the result of determination, intelligence and bravery—but also her 'hyperempathy' for others and an intense belief 
-in the concept of 'change.' As Lauren says in the novel:
+in the concept of 'change.' As Lauren says in [Butler's <i>Parable of the Sower</i>]:
 >>"Embrace diversity. Unite—or be divided, robbed, ruled, killed by those who see you as prey. Embrace diversity, 
 or be destroyed."
 

@@ -4,8 +4,8 @@ title: "Octavia Butler Alert"
 subtitle: "Our Namesake in the News"
 author: Chana
 ---
-A new science fiction anthology entitled **Octavia's Brood: Science Fiction Stories from Social 
-Justice Movements** will come out this spring from AK press. 
+A new science fiction anthology entitled *Octavia's Brood: Science Fiction Stories from Social 
+Justice Movements* will come out this spring from AK press. 
 
 >"We started the anthology with the belief that all organizing is science fiction. When we talk about 
 a world without prisons; a world without police violence; a world where everyone has food, clothing, 

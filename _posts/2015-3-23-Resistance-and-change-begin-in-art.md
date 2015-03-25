@@ -14,4 +14,5 @@ Ursula Le Guin sees the responsibility and power of fiction to be how it can ima
 
 Here at the Octavia Project we could not agree more. That is why we are committed to providing space and resources for the next generation of diverse women science-fiction and fantasy writers, thinkers, and makers--allowing them to imagine new futures for themselves and their communities.
 
-![Wizard of Earthsea](http://octaviaproject.github.io/assets/img/photos/WizardEarthsea.jpg)
+![Wizard of Earthsea](http://octaviaproject.github.io/assets/img/photos/WizardEarthsea.jpg)  
+Photo source: [Simon Jones](https://www.flickr.com/photos/75077089@N00/1082482503/in/set-72157601367252158). [Some rights reserved](https://creativecommons.org/licenses/by-nc-nd/2.0/).

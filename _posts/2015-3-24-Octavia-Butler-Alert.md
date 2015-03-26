@@ -22,4 +22,4 @@ Read [the full article](http://bitchmagazine.org/article/rewriting-the-future-pr
 and make sure to pre-order the anthology! 
 
 *Update:* A henious fire in Oakland, CA on March 21 killed two people and badly damaged the warehouse used 
-by AK Press and 1984 Printing. Lend your [help and support] (https://www.gofundme.com/akpressfire). 
+by AK Press and 1984 Printing. Lend your [help and support](https://www.gofundme.com/akpressfire). 

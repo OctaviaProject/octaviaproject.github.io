@@ -5,7 +5,8 @@ subtitle: "Our Namesake in the News"
 author: Chana
 ---
 A new science fiction anthology entitled *Octavia's Brood: Science Fiction Stories from Social 
-Justice Movements* will come out this spring from AK press. 
+Justice Movements* will come out this spring from AK Press. (See below for an important update about 
+[AK Press](http://www.akpress.org/).)
 
 Walidah Imarisha, *Octavia's Brood* co-editor, describes their mission.
 
@@ -19,3 +20,6 @@ This beautiful article asserts science fiction as an active tool of social justi
 
 Read [the full article](http://bitchmagazine.org/article/rewriting-the-future-prison-abolition-science-fiction)
 and make sure to pre-order the anthology! 
+
+*Update:* A henious fire in Oakland, CA on March 21 killed two people and badly damaged the warehouse used 
+by AK Press and 1984 Printing. Lend your [help and support] (https://www.gofundme.com/akpressfire). 

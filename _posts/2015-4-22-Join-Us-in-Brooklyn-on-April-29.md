@@ -6,6 +6,8 @@ author: Meghan
 ---
 If you're in NYC (and over 21) join us on Wed., April 29, for our Launch Party!
 
+![OP_flyer](http://octaviaproject.github.io/assets/img/photos/OP_flyer_FINAL.jpg)
+
 Buy some raffle tickets, win some prizes, drink some beers, all while spreading the word about the 
 Octavia Project and helping us meet our fundraising goal. We'll be hanging out at an awesome beer garden in 
 Fort Greene, screening our favorite classic sci-fi movies, and playing intergalactic games!

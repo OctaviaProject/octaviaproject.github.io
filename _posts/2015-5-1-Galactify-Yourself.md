@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Galactify"
-subtitle: "Your Intergalactic Alter-Ego"
+title: "Galactify Yourself"
+subtitle: "Meet Your Intergalactic Alter-Ego"
 author: Mechak Eilrea
 ---
 Have you ever wondered who you might be in another world? Another galaxy? What would you be called? 

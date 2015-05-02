@@ -14,5 +14,6 @@ Or perhaps you're someone else entirely...  We dare you to [find out](http://oct
 Mechak Eilrea and Ctaki Yorher can't wait to meet you...
 
 ![Mechak Eilrea](http://octaviaproject.github.io/assets/img/photos/Meghan_morph.png)<br>
+<br>
 ![Ctaki Yorher](http://octaviaproject.github.io/assets/img/photos/chana_morph.png)
 

@@ -11,6 +11,6 @@ Maybe you're Ovtavoa Yzojict, the wise architect from pleasure planet Ripinij. O
 
 Or perhaps you're someone else entirely?  We invite you to [find out](http://octaviaproject.org/galactify/). Mechak Eilrea and Ctaki Yorher can't wait to meet you...
 
-![Mechak Eilrea](http://octaviaproject.github.io/assets/img/photos/Meghan_morph.png)<br>
+![Mechak Eilrea](http://octaviaproject.github.io/assets/img/photos/Meghan_morph.png)  
 ![Ctaki Yorher](http://octaviaproject.github.io/assets/img/photos/chana_morph.png)
 

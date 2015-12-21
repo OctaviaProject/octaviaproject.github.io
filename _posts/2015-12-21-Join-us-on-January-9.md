@@ -6,6 +6,15 @@ author: Meghan
 ---
 Come celebrate with us in the new year at our 2015 Portfolio Showcase.
 
+<img src="http://octaviaproject.github.io/assets/img/photos/portfolioshowcase_final.png" alt="" usemap="#map" /> 
+<map name="map">
+    <area shape="rect" coords="20, 512, 121, 596" href="http://octaviaproject.org/portfolios/osas/index.html" alt="Osas' Portfolio" title="Osas' Portfolio" />
+    <area shape="rect" coords="20, 391, 139, 505" href="http://octaviaproject.org/portfolios/sada/index.html" alt="Sada's Portfolio" title="Sada's Portfolio" />
+    <area shape="rect" coords="19, 288, 121, 385" href="http://octaviaproject.org/portfolios/naya/index.html" alt="Naya's Portfolio" title="Naya's Portfolio" />
+    <area shape="rect" coords="18, 155, 121, 282" href="http://octaviaproject.org/portfolios/isheyana/index.html" alt="Isheyana's Portfolio" title="Isheyana's Portfolio" />
+    <area shape="rect" coords="18, 50, 121, 149" href="http://octaviaproject.org/portfolios/" alt="Octavia Project Portfolios" title="Octavia Project Portfolios" />
+</map>
+
 This summer, nine girls from Brooklyn brought their imaginary worlds to life. As part of our inaugural month-long workshop, 
 they wrote, sculpted, 3D modeled, designed online games, crafted wearable electronics, and more.
 

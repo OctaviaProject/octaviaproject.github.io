@@ -4,6 +4,8 @@ title: "Join us on January 9"
 subtitle: "2015 Portfolio Showcase"
 author: Meghan
 ---
+Come celebrate with us in the new year at our 2015 Portfolio Showcase.
+
 This summer, nine girls from Brooklyn brought their imaginary worlds to life. As part of our inaugural month-long workshop, 
 they wrote, sculpted, 3D modeled, designed online games, crafted wearable electronics, and more.
 

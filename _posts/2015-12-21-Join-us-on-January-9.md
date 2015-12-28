@@ -22,10 +22,10 @@ they wrote, sculpted, 3D modeled, designed online games, crafted wearable electr
 and even get a chance to play the games they designed.
 
 **Saturday, January 9, 2016**<br>
-4-7pm<br>
+Come by anytime from 4-7pm<br>
 Seven Stories Press<br>
 140 Watts St, NY, NY<br>
-[RSVP](mailto:info@octaviaproject.org)
+[RSVP](https://www.facebook.com/events/470829389787706/)
 
 Friends and family welcome! Invite a teenage girl who might want to join the Octavia Project or an educator, techie, 
 writer, or community member you think will love what we’re doing!

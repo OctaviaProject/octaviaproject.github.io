@@ -4,10 +4,11 @@ title: "Our amazing first Portfolio Showcase"
 subtitle: "Last month at Seven Stories Press"
 author: Meghan
 ---
-Our Portfolio Showcase at the beautiful Seven Stories Press was such a smash! We sculpted with electrifying circuitry, 
-crafted fantastical flowers, and played our participants' online adventure games. Thanks so much for celebrating our girls' 
-wonderful projects and listening to them speak about why the Octavia Project is important, all while becoming a part of 
-[our growing community](https://www.facebook.com/media/set/?set=a.811142809011869.1073741838.681890758603742&type=3&pnref=story). 
+Our Portfolio Showcase at the beautiful Seven Stories Press was such a smash! 
+
+We sculpted with electrifying circuitry, crafted fantastical flowers, and played our participants' online adventure games. 
+Thanks so much for celebrating our girls' wonderful projects and listening to them speak about why the Octavia Project is 
+important, all while becoming a part of [our growing community](https://www.facebook.com/media/set/?set=a.811142809011869.1073741838.681890758603742&type=3&pnref=story). 
 
 Did you miss the party? You can still [play the games](http://octaviaproject.org/portfolios/games) the girls designed last 
 summer and [explore their portfolios](http://octaviaproject.org/portfolios/). While you're there, check out co-founder 

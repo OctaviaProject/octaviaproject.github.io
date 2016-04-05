@@ -15,7 +15,7 @@ summer and [explore their portfolios](http://octaviaproject.org/portfolios/). Wh
 Chana's [Origins of the Octavia Project](http://octaviaproject.org/portfolios/Origins.html) game--an interactive way to 
 learn how the Octavia Project began. 
 
-Finally, we're gearing up for summer 2016--here's how you can help:
-* Know any teenage girls who might be interested in participating in our free summer program? [Send them our way!](http://octaviaproject.org/join.html) 
-* Are you a teacher, techie, or just an enthusiast of all things nerdy? [Volunteer with us!](https://docs.google.com/forms/d/1YuoOK8AntCFPBL1Ghj1BrSBfvv9KFTTcRZOfq-Rk9RQ/viewform?c=0&w=1)
-* Donate to the Octavia Project's [2016 summer program!](http://octaviaproject.org/donate.html) 
+Finally, we're gearing up for summer 2016--here's how you can help:<br>
+* Know any teenage girls who might be interested in participating in our free summer program? [Send them our way!](http://octaviaproject.org/join.html) <br>
+* Are you a teacher, techie, or just an enthusiast of all things nerdy? [Volunteer with us!](https://docs.google.com/forms/d/1YuoOK8AntCFPBL1Ghj1BrSBfvv9KFTTcRZOfq-Rk9RQ/viewform?c=0&w=1) <br>
+* Donate to the Octavia Project's [2016 summer program!](http://octaviaproject.org/donate.html) <br>

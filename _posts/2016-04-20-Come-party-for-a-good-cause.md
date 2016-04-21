@@ -9,7 +9,7 @@ If you're in NYC, and 21+, join us on Wed., April 27, and help us kick off our 2
 We'll be screening sci-fi movies, raffling stellar prizes, enjoying food and drink, and 
 gathering steam to launch this year's summer program.
 
-![2016 Kick-off party](http://octaviaproject.github.io/assets/img/photos/output_0lTP8F.gif)
+![2016 Kick-off party](http://octaviaproject.github.io/assets/img/output_0lTP8F.gif)
 
 **Wednesday, April 27** <br>
 7-10pm <br>

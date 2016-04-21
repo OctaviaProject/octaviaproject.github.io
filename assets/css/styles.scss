@@ -129,6 +129,21 @@ div.about {
   font-size: 1.1em; 
 }
 
+div.donate {
+  .center {
+    text-align: center;
+  }
+  
+  a.donate-button {
+    background-color: #9A99FF;
+    padding: 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+  }
+}
+
+
 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
   margin: 0 auto;
 }

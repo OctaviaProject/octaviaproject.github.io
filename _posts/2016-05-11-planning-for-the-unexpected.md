@@ -98,6 +98,8 @@ of a character I thought I knew through and through.
 So all in all, if you’re looking to do some fictional soul searching or just looking to kill a few hours 
 being ridiculous, Fiasco is a great place to start your RPG journey. 
 
+![Ximena](octaviaproject.github.io/assets/img/photos/ximena.jpg) 
+
 *Ximena Callisto (Castillo)* <br>
 *Race: Indeterminate/Humanoid* <br>
 *Age: Indeterminate* <br>

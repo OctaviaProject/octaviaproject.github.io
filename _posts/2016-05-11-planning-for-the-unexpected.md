@@ -9,13 +9,13 @@ On Saturday, February 27th, I attended a pilot session of the Octavia Project RP
 
 Chana, Leigh and Meghan set the mood with eerie tones and homemade potato skins. It was just the 
 four of us and a table. Now RPG, obvs, stands for Role Playing Game, but I still wasn’t sure what 
-to expect. Like most people, when I hear the term “RPG,” I think of console or online games--
-*Final Fantasy* and *World of Warcraft* are two popular names that immediately come to mind. 
+to expect. Like most people, when I hear the term “RPG,” I think of console or online games--*Final 
+Fantasy* and *World of Warcraft* are two popular names that immediately come to mind. 
 But I knew we weren’t going to be playing video games and I wasn’t told to bring a laptop 
 (which is good since mine doesn’t have a great graphics chip). We were going to play a table-top RPG. 
 
 This may make me lame, but I don’t know that many/haven’t played that many table-top RPG’s, save 
-for a stint I had with *Arkham Horror*–-and while I did manage to beat the game without losing my 
+for a stint I had with *Arkham Horror*--and while I did manage to beat the game without losing my 
 mind, I don’t think that makes me any kind of expert. 
 
 Someone might ask, what is a table-top RPG? Well, as the name suggests, it’s a role playing game 

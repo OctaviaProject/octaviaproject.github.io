@@ -26,7 +26,8 @@ select or build a character and then play that character through the game. It ca
 sordid, but shouldn’t be intimidating especially since not all RPG’s are necessarily complicated. 
 Case in point: *Fiasco*. 
 
-Now to the good stuff…how to describe *Fiasco*. Thankfully, the internet did that for me.
+Now to the good stuff…how to describe [*Fiasco*](http://bullypulpitgames.com/games/fiasco/). 
+Thankfully, the internet did that for me.
 
 > *Fiasco* is a role-playing game by Jason Morningstar, independently published by Bully Pulpit Games. 
 It is a GM-less game for 3–5 players, designed to be played in a few hours with six-sided dice and 

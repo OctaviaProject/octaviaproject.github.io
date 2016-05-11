@@ -82,11 +82,11 @@ to note that the inherent solace and anonymity of playing a video game is lost h
 who prefers the solitude, table-top RPGs can be almost intimidating, but they also have the capacity to be 
 exhilarating and humorous, if you let them. Physically being in the same room as the other players requires 
 you to improvise and react to the decisions they’re making. Now don’t get me wrong, I’m no actor, but I had 
-great set of players to try this out with me. Chana, Leigh and Meghan couldn’t have been more welcoming. 
+a great set of players to try this out with me. Chana, Leigh and Meghan couldn’t have been more welcoming. 
 Playing with people who want to be having fun is an essential part of the process. 
 
-I know you’re dying to hear it, but there is no way to recount the entire story of the game we played. And, 
-you could opt to play in the same location we chose and end up with a completely different set of events. 
+I know you’re dying to hear it, but there is no way to recount the entire story of the game we played. 
+You could opt to play in the same location we chose and end up with a completely different set of events. 
 Just know that Maeve got shot full of nano-bots, became a drone, then got caught in an explosion, but 
 survived and was arrested and taken to federal prison. Haha. Yeah. 
 
@@ -112,7 +112,7 @@ being ridiculous, *Fiasco* is a great place to start your RPG journey.
 
 *Ximena graduated with honors from Eugene Lang College for Liberal Arts in 2015, majoring in 
 Literary Studies and Creative Writing. An aspiring novelist in the fiction genre, Ximena 
-spends much of time thinking of new ways to tell familiar stories. A self-proclaimed Trekkie, 
+spends much of her time thinking of new ways to tell familiar stories. A self-proclaimed Trekkie, 
 she gains much of her inspiration from current events and hopes to build worlds and characters 
 that readers can't help but fall in love with. When she isn't struggling with the blank page, 
 Ximena enjoys the finer things in life: napping, collecting figurines, a glass a wine and a 

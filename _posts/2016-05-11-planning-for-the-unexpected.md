@@ -34,7 +34,7 @@ no preparation. It is billed as "A game of powerful ambition and poor impulse co
 by cinematic tales of small time capers gone disastrously wrong—films like *Blood Simple*, *Fargo*, 
 *The Way of the Gun*, *Burn After Reading*, and *A Simple Plan*.
 
-Thank you, Wikipedia. 
+Thank you, [Wikipedia](https://en.wikipedia.org/wiki/Fiasco_(role-playing_game)). 
 
 In a nutshell, there are four themed-settings the game play can take place in. Each setting has a 
 sub-set of places where the action happens along with a series of other variables that are supposed 

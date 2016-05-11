@@ -96,7 +96,7 @@ so many unplanned and humorously absurd encounters, now I’m not so sure. I was
 of a character I thought I knew through and through. 
 
 So all in all, if you’re looking to do some fictional soul searching or just looking to kill a few hours 
-being ridiculous, Fiasco is a great place to start your RPG journey. 
+being ridiculous, *Fiasco* is a great place to start your RPG journey. 
 
 <br>
 *Ximena Callisto (Castillo)* <br>

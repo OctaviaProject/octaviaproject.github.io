@@ -100,7 +100,6 @@ being ridiculous, *Fiasco* is a great place to start your RPG journey.
 
 ![Ximena](http://octaviaproject.github.io/assets/img/photos/ximena.jpg)
 
-<br>
 *Ximena Callisto (Castillo)* <br>
 *Race: Indeterminate/Humanoid* <br>
 *Age: Indeterminate* <br>

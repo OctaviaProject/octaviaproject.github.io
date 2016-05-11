@@ -98,3 +98,27 @@ of a character I thought I knew through and through.
 So all in all, if you’re looking to do some fictional soul searching or just looking to kill a few hours 
 being ridiculous, Fiasco is a great place to start your RPG journey. 
 
+*Ximena Callisto (Castillo) <br>
+Race: Indeterminate/Humanoid <br>
+Age: Indeterminate <br>
+Class: Post-Grad <br>
+Level: 24 <br>
+Exp: >9,000 <br>
+Armor: Introverted Behavior <br>
+Weapon: Stark Sarcasm <br>
+Weakness: Narcolepsy <br>
+
+Ximena graduated with honors from Eugene Lang College for Liberal Arts in 2015, majoring in 
+Literary Studies and Creative Writing. An aspiring novelist in the fiction genre, Ximena 
+spends much of time thinking of new ways to tell familiar stories. A self-proclaimed Trekkie, 
+she gains much of her inspiration from current events and hopes to build worlds and characters 
+that readers can't help but fall in love with. When she isn't struggling with the blank page, 
+Ximena enjoys the finer things in life: napping, collecting figurines, a glass a wine and a 
+new ball of yarn.
+
+In the past, Ximena has interned with and participated on the Youth Board of Girls Write Now, 
+a non-profit organization devoted to aiding teenage girls with a passion for writing. 
+Afterward, she spent time aiding the Octavia Project during their inaugural summer program. 
+
+By day Ximena spends her time juggling the hectic life of an administrative assistant, by 
+night she... well she sleeps.*

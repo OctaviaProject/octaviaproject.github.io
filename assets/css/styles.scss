@@ -236,6 +236,15 @@ img.bio {
   margin-right: 30px;
 }
 
+#mc_embed_signup {
+  float: right;
+  background: none;
+}
+
+#mc_embed_signup input.email {
+  color: black;
+}
+
 // Smaller than landscape tablet
 @media screen and (max-width: 768px) {
    Remove the padding we set earlier 

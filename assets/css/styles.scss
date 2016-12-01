@@ -20,8 +20,8 @@ $blog-color: #FF99CA;
 $blog-hover: #F7C3DC; 
 $join-color: #FFB499;
 $join-hover: #F3CFC1; 
-$donate-color: #FDFF99;
-$donate-hover: #EEEFC0;
+$support-color: #FDFF99;
+$support-hover: #EEEFC0;
 
 /*
 // RGB gradient navbar 
@@ -33,8 +33,8 @@ $blog-color: #E5E5E5;
 $blog-hover: #FFFFFF;
 $join-color: #F1F2BF;
 $join-hover: #FDFFA0;
-$donate-color: #FDFF99;
-$donate-hover: #FBFF42;
+$support-color: #FDFF99;
+$support-hover: #FBFF42;
 
 // Normal navbar
 $home-color: #B6B6FF;
@@ -45,8 +45,8 @@ $blog-color: #B6B6FF;
 $blog-hover: #EFF0C0;
 $join-color: #B6B6FF;
 $join-hover: #EFF0C0;
-$donate-color: #B6B6FF;
-$donate-hover: #EFF0C0;
+$support-color: #B6B6FF;
+$support-hover: #EFF0C0;
 */
 
 body {
@@ -129,7 +129,7 @@ div.about {
   font-size: 1.1em; 
 }
 
-div.donate {
+div.support {
   .center {
     text-align: center;
     margin-top: 40px;
@@ -140,7 +140,7 @@ div.donate {
     font-style: italic;
   }
   
-  a.donate-button {
+  a.support-button {
     background-color: #9A99FF;
     padding: 15px;
     border-radius: 5px;
@@ -215,14 +215,14 @@ img#logo {
   color: $join-hover;
 }
 
-.navbar div#donate.active {
-  border-bottom: 5px solid $donate-color;
+.navbar div#support.active {
+  border-bottom: 5px solid $support-color;
 }
-.navbar div#donate a {
-  color: $donate-color;
+.navbar div#support a {
+  color: $support-color;
 }
-.navbar div#donate a:hover {
-  color: $donate-hover;
+.navbar div#support a:hover {
+  color: $support-hover;
 }
 
 .navbar div a {
@@ -280,8 +280,8 @@ img.bio {
   .navbar div#join.active {
     border: 2px solid $join-color;
   }
-  .navbar div#donate.active {
-    border: 2px solid $donate-color;
+  .navbar div#support.active {
+    border: 2px solid $support-color;
   }
   img.bio {
     margin-right: 15px;

@@ -21,9 +21,9 @@ might be interested in our summer program, have her check out a workshop!**
 **How:** Registration is mandatory as seating is limited! [Register here.](http://www.thegeekforest.com/products/saturday-february-25th-12-3pm-octavia-project-field-guide-to-an-alien-world?variant=34409189967) 
 Registration for this workshop is free and open to teen girls* ages 13-17.  (*We welcome 
 participants who are trans, gender non-conforming, and questioning.)  Healthy snacks will 
-be provided. [Find a sharable flyer here.](octaviaproject.github.io/assets/OP_Saturday_Workshop_1_Flyer.pdf)
+be provided. [Find a sharable flyer here.](octaviaproject.org/assets/OP_Saturday_Workshop_1_Flyer.pdf)
 
-**Workshop 1: Field Guide To An Alien World**
+**Workshop 1: Field Guide To An Alien World**<br>
 Join the Octavia Project for a special workshop about alien plant life, creative writing, painting, 
 and science fiction! This workshop will use art, botany, and imagination to design a plant that might 
 be found in an alien world. Participants will paint an alien plant that will be included in an alien 

@@ -3,7 +3,7 @@ layout: post
 title: "VanderMeer Creative Sponsors our Summer 2017 Program"
 author: Meghan
 ---
-We have some exciting news to share! Our summer 2017 program has been fully sponsored by 
+We have some exciting news to share: Our summer 2017 program has been fully sponsored by 
 [VanderMeer Creative](http://vandermeercreative.com/), a project of editor Ann VanderMeer 
 and author Jeff VanderMeer.  
 

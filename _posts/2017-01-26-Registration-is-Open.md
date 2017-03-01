@@ -16,7 +16,8 @@ Past participants, come out and say hi to your OP friends!  If you’re new to t
 Project, this is a great way to see what we’re all about!  Or, **if you know a teen girl who 
 might be interested in our summer program, have her check out a workshop!**
 
-**When:** Workshop 1- Saturday, Feb. 25, 12-3pm<br> 
+**When:** <br>
+Workshop 1- Saturday, Feb. 25, 12-3pm<br> 
 Workshop 2- Saturday, April 1, 12-3pm<br>
 **Where:** Geek Forest, Williamsburg, Brooklyn<br>
 **How:** Registration is mandatory as seating is limited!  [Register here.](http://www.thegeekforest.com/products/saturday-february-25th-12-3pm-octavia-project-field-guide-to-an-alien-world?variant=34409189967) 

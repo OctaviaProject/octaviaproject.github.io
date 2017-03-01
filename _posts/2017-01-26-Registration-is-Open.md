@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Registration is Open: Free Saturday Workshops this Spring"
+title: "Registration is Open: Free Monthly Saturday Workshops this Spring"
 author: Meghan
 ---
 **Announcing free Saturday workshops! ! !** 
@@ -8,7 +8,7 @@ author: Meghan
 ![Saturday Workshops at Geek Forest](http://octaviaproject.github.io/assets/img/photos/OP_Geek_Forest_Workshops.jpg)
 
 This spring, the Octavia Project is partnering with the makerspace Geek Forest to offer 
-free workshops for teens! The first workshop, on **Saturday, Feb. 25**, is **Field Guide To An 
+free monthly workshops for teens! The first workshop, on **Saturday, Feb. 25**, is **Field Guide To An 
 Alien World**, a three-hour workshop that combines creative writing, science fiction, botany, 
 and painting. 
 

@@ -3,7 +3,7 @@ layout: post
 title: "Registration is Open: Free Monthly Saturday Workshops this Spring"
 author: Meghan
 ---
-**Announcing free Saturday workshops! ! !** 
+**Announcing free monthly Saturday workshops! ! !** 
 
 ![Saturday Workshops at Geek Forest](http://octaviaproject.github.io/assets/img/photos/OP_Geek_Forest_Workshops.jpg)
 

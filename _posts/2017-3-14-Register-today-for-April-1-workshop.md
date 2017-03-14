@@ -6,7 +6,7 @@ author: Meghan
 
 Teen girls in NYC: join us on Saturday, April 1, for a one-day workshop in science fiction and architecture!
 
-![Imaginary Cities Workshop](octaviaproject.github.io/assets/img/photos/imginarycity.jpg)
+![Imaginary Cities Workshop](http://octaviaproject.github.io/assets/img/photos/imginarycity.jpg)
 
 If you’re new to the Octavia Project, this is a great way to see what we’re all about! Past participants, come 
 out and say hi to your OP friends! Or, if you know a teen girl* who might be interested in our summer program, 

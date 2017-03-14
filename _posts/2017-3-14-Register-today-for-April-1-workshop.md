@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Register Today: Free Workshop Saturday April 1"
+author: Meghan
+---
+
 Teen girls in NYC: join us on Saturday, April 1, for a one-day workshop in science fiction and architecture!
 
 ![Imaginary Cities Workshop](octaviaproject.github.io/assets/img/photos/imginarycity.jpg)

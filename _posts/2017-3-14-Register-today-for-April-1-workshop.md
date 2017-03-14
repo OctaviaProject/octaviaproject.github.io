@@ -22,6 +22,3 @@ and questioning.)<br>
 Join the Octavia Project for an afternoon of science fiction and architecture as we create our own Imaginary Cities. 
 We’ll look at examples of imaginary cities in some of our favorite fiction, then design our own using the real-world tools 
 of modern architects. Participants will leave the workshop with a taste of the Octavia Project [free summer program](http://octaviaproject.org/join.html). 
-
-These workshops are made possible through the support of our community. We couldn’t provide these opportunities without you. 
-Thank you so much!

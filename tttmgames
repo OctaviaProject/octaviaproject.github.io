@@ -1,0 +1,16 @@
+---
+---
+{% include header.html %}
+
+    <img class="bio" src="{{ site.url }}/assets/img/photos/Group_smiles.jpg"> 
+
+    <div class="about" style="font-size: 1.2em;">
+      
+      <h1>Your games coming soon!</h1>
+        
+
+      
+    <div class="flower"><img src="{{ site.url }}/assets/img/flower.png"></div>
+      
+    </div>
+{% include footer.html %}

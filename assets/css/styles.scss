@@ -307,8 +307,10 @@ img.bio {
 
 .game-grid {
   display: flex;
+  flex-direction: column;
 }
 
-.game-grid--row {
+.game-grid---row {
   display: flex;
+  flex-direction: row;
 }

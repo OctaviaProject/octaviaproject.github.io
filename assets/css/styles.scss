@@ -307,15 +307,11 @@ img.bio {
 
 .game-grid {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .game-grid---row {
   display: flex;
-  flex-direction: row;
-  margin: 10px 0 10px 0;
-}
-
-.game-grid---row---game {
-  text-align: center;
+  flex-direction: column;
+  margin: 0px 10px 0px 10px;
 }

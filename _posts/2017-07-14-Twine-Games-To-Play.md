@@ -6,7 +6,7 @@ author: Meghan
 We'll be making our own Twine games starting next week. In the meantime, check out these games to learn a bit about the program [Twine](https://twinery.org/).
 
 [**Birdland**](http://birdland.camp/)<br>
-Trying to save your entire summer camp from weird alien bird monsters is hard work! Click on "About" to see the [cast of characters].
+Trying to save your entire summer camp from weird alien bird monsters is hard work! Click on "About" to see the cast of characters.
 
 [**Eun, Park or Kyung?**](http://philome.la/Dao898/eun-park-or-kyung/play)<br>
 The infamous Soo-Im Boys, Parker, Eunji and Kyung, are very popular in school. They've got style, personality and hella good looks. 

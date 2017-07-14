@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Twine Games to Play"
+title: "Pick a Game, Any Game!"
 author: Meghan
 ---
-We'll be making our own Twine games starting next week. In the meantime, check out these games to learn a bit about the program Twine.
+We'll be making our own Twine games starting next week. In the meantime, check out these games to learn a bit about the program [Twine](https://twinery.org/).
 
 [**Birdland**](http://birdland.camp/)<br>
 Trying to save your entire summer camp from weird alien bird monsters is hard work! Click on "About" to see the [cast of characters].
@@ -12,6 +12,6 @@ Trying to save your entire summer camp from weird alien bird monsters is hard wo
 The infamous Soo-Im Boys, Parker, Eunji and Kyung, are very popular in school. They've got style, personality and hella good looks. 
 Because of your unique charm and fun nature, you have not one boy fawning over you, not two, but ALL three of them under your spell.
 
-[**Bell Park, Youth Detective**](http://youthdetective.com/)
+[**Bell Park, Youth Detective**](http://youthdetective.com/)<br>
 Starring a headstrong twelve-year-old detective who gets in over her head when she's hired to solve a murder at an internet 
 technology conference.

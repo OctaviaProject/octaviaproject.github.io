@@ -6,7 +6,7 @@ author: Bridget
 It’s gone by way too fast, but this summer’s program has come to a close. Here’s a taste of all the world-building, 
 coding, bonding, and experimenting that happened in part two of our program.
 
-Architects Annie Kountz and Jessica Jorge taught us about scale and structure…
+Architects Annie Kountz and Jessica Jorge taught us about scale and structure,
 and we made cities with our bodies.
 
 We learned binary with software engineer Tyler Hoyt, and then used binary and ASCII encoding to weave secret messages 

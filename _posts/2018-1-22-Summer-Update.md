@@ -10,7 +10,7 @@ hosted at Pratt Institute's beautiful MFA in Writing Storefront. We're so excite
 
 We've created branching narratives based on imagined and existing worlds; 
 roamed Clinton Hill in the guise of explorers, botanists, and naturalists; 
-and moved our bodies with yoga, karate, dance, and too many silly games...
+and moved our bodies with yoga, karate, dance, and too many silly games.
 
 We've been so happy to work with author Zetta Elliot and poet Nina Oteria to develop voice and personal authority. 
 And we've been loving reading Labyrinth Lost by Zoraida Cordova in our book club!

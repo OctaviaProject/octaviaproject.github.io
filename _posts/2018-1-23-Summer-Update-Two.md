@@ -2,7 +2,6 @@
 layout: post
 title: "Summer 2017 Part Two"
 author: Bridget
-draft: true
 ---
 It’s gone by way too fast, but this summer’s program has come to a close. Here’s a taste of all the world-building, 
 coding, bonding, and experimenting that happened in part two of our program.

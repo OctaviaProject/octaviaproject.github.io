@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summer 2017 Part Two"
+title: "Saying Goodbye To Summer 2017!"
 author: Bridget
 ---
 It’s gone by way too fast, but this summer’s program has come to a close. Here’s a taste of all the world-building, 

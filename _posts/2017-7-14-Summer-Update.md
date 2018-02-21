@@ -4,7 +4,9 @@ title: "Learn A Little About Our Great Summer 2017 Group"
 author: Bridget 
 ---
 We couldn't be happier about the incredible group of girls we're working with this summer, 
-hosted at Pratt Institute's beautiful MFA in Writing Storefront. We're so excited to share a bit about our program with you! 
+hosted at Pratt Institute's beautiful MFA in Writing Storefront. 
+
+We're so excited to share a bit about our program with you! 
 
 ![Drip Painting 1](http://octaviaproject.github.io/assets/img/photos/drip_painting_1.jpg)
 

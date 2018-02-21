@@ -21,6 +21,6 @@ All of our digital portfolios can be viewed online—[check ‘em out!](http://p
 And one last humongous thank you to **Ann and Jeff and VanderMeer Creative for sponsoring 
 this summer’s program** and to **Pratt's Writing MFA Program for hosting us** in their beautiful community storefront space.
 
-![Smiles Hugs](<align="middle">http://octaviaproject.github.io/assets/img/photos/Sarah_hugs.jpg)
+![Smiles Hugs](http://octaviaproject.github.io/assets/img/photos/Sarah_hugs.jpg)
 
 See you all next summer!

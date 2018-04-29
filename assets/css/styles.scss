@@ -7,24 +7,24 @@ $font-headline: 'Varela Round', sans-serif;
 $primary-purple: #9B99FF;
 $secondary-purple: #C1BFFF;
 $darker-purple: #807EE6;
-$primary-yellow: #EFF0C0; 
+$primary-yellow: #EFF0C0;
 $text-color: #EBEBEB;
 $background-color: rgba(25, 25, 25, 0.2);
 
-// Colorful navbar 
+// Colorful navbar
 $home-color: #9A99FF;
 $home-hover: #C7C7FF;
 $about-color: #E799FF;
-$about-hover: #EEC5FB; 
+$about-hover: #EEC5FB;
 $blog-color: #FF99CA;
-$blog-hover: #F7C3DC; 
+$blog-hover: #F7C3DC;
 $join-color: #FFB499;
-$join-hover: #F3CFC1; 
+$join-hover: #F3CFC1;
 $support-color: #FDFF99;
 $support-hover: #EEEFC0;
 
 /*
-// RGB gradient navbar 
+// RGB gradient navbar
 $home-color: #9B99FF;
 $home-hover: #4642FF;
 $about-color: #C0BFF2;
@@ -56,13 +56,13 @@ body {
   background-color: black;
   background-image: url('../img/stardust.png');
   //background-image: url(http://www.transparenttextures.com/patterns/notebook.png);
-  font-size: 1.8em; 
+  font-size: 1.8em;
   padding-top: 20px;
   padding-bottom: 20px;
 }
 
 h1, h2, h3 {
-  font-family: $font-headline; 
+  font-family: $font-headline;
   font-weight: 400;
 }
 
@@ -122,11 +122,11 @@ a:visited {
 }
 
 div.manifesto {
-  font-size: 1.2em; 
+  font-size: 1.2em;
 }
 
 div.about {
-  font-size: 1.1em; 
+  font-size: 1.1em;
 }
 
 div.support {
@@ -134,12 +134,12 @@ div.support {
     text-align: center;
     margin-top: 40px;
   }
-  
+
   blockquote {
     border: none;
     font-style: italic;
   }
-  
+
   a.support-button {
     background-color: #9A99FF;
     padding: 15px;
@@ -252,7 +252,7 @@ img.bio {
 
 // Smaller than landscape tablet
 @media screen and (max-width: 768px) {
-   Remove the padding we set earlier 
+   Remove the padding we set earlier
   .header,
   .main,
   .footer {
@@ -325,4 +325,8 @@ img.bio {
     display: block;
     margin: auto;
     margin-bottom: 40px;
+}
+
+.post-content img {
+  width: 100%;
 }

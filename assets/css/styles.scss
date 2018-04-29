@@ -360,3 +360,38 @@ img.bio {
   width: 50%;
   overflow: hidden;
 }
+
+.post-content-preview {
+  display: flex;
+  flex-direction: row;
+}
+
+.post-content-preview .post-image img {
+  width: 100%;
+}
+
+.post-excerpt {
+
+}
+
+.post-image {
+  max-width: 35%;
+  margin-left: 10px;
+}
+
+.post-title {
+  font-size: 1.3em;
+}
+
+.post-subtitle {
+  text-align: left;
+  font-size: 1.0em;
+  color: $primary-purple;
+  font-style: oblique;
+  margin: 0px 0px 0px 0px;
+}
+
+.post-date {
+  font-size: 0.8em;
+  margin-bottom: 10px;
+}

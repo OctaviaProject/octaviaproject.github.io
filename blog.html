@@ -1,7 +1,7 @@
 ---
 ---
-{% include header.html %}
-
+{% include blog_header.html %}
+  <div class="post">
   {% for post in site.posts limit: 3 %}
   <div class="post-content-preview">
     <div class="post-excerpt">
@@ -24,7 +24,7 @@
   </div>
   <div class="flower"><img src="{{ site.url }}/assets/img/flower.png"></div>
   {% endfor %}
-
+  </div>
   <div class="post">
     <h2 class="post-header">Recent posts</h2>
     <ul class="recent-posts">

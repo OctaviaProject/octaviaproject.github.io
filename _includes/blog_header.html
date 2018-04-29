@@ -7,24 +7,22 @@
     <meta name="description" content="">
     <link rel="icon" href="{{ site.url }}/assets/img/favicon.ico">
 
-    <title>Octavia Project Blog</title>
-
-    <!--link href='http://fonts.googleapis.com/css?family=Nunito:400,700|Radley:400,400italic' rel='stylesheet' type='text/css'-->
+    <title>The Octavia Project</title>
 
     <link href='//fonts.googleapis.com/css?family=Lato:300,700|Varela+Round' rel='stylesheet' type='text/css'>
     <link href='//fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <link href="{{ site.url }}/assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="{{ site.url }}/assets/css/common.css" rel="stylesheet">
-    <link href="{{ site.url }}/assets/css/blog-styles.css" rel="stylesheet">
+    <link href="{{ site.url }}/assets/css/styles.css" rel="stylesheet">
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    
+
       ga('create', 'UA-38395724-2', 'auto');
       ga('send', 'pageview');
-    
+
     </script>
     <script src="{{ site.url }}/assets/js/jquery-1.11.2.min.js"></script>
     <script src="{{ site.url }}/assets/js/bootstrap.min.js"></script>
@@ -37,14 +35,25 @@
   </head>
 
   <body>
-    <div id="blog-header-bg"></div>
 
-    <div class="main">
-      <div id="blog-header">
-        <span class="blog-title">
-          <a href="/blog.html">Octavia Project Blog</a>
-        </span>
-        <span class="blog-title" id="op-home">
-          <a href="/">OctaviaProject.org</a>
-        </span>
+    <div class="container">
+      <div class="navbar row">
+        <div class="col-sm-4">
+          <a href="/"><img id="logo" src="{{ site.url }}/assets/img/logo_lg.png"></a>
+        </div>
+        {% assign current = page.url | downcase | split: '/' %}
+        <div id='about' {% if current[1] == 'about.html' %}class="col-xs-12 col-sm-2 nav-item active"{% else %}class="col-xs-12 col-sm-2 nav-item"{% endif %}>
+          <a href="/about.html">About</a>
+        </div>
+        <div id='blog' {% if current[1] == 'blog.html' %}class="col-xs-12 col-sm-2 nav-item active"{% else %}class="col-xs-12 col-sm-2 nav-item"{% endif %}>
+          <a href="/blog.html">Blog</a>
+        </div>
+        <div id='join' {% if current[1] == 'join.html' %}class="col-xs-12 col-sm-2 nav-item active"{% else %}class="col-xs-12 col-sm-2 nav-item"{% endif %}>
+          <a href="/join.html">Join</a>
+        </div>
+        <div id='support' {% if current[1] == 'support.html' %}class="col-xs-12 col-sm-2 nav-item active"{% else %}class="col-xs-12 col-sm-2 nav-item"{% endif %}>
+          <a href="/support.html">Support</a>
+        </div>
       </div>
+    </div>
+    <div class="blog-main">

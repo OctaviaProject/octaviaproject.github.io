@@ -91,10 +91,9 @@ a {
 }
 a:hover {
   color: $secondary-purple;
-  text-decoration: none;
+  text-decoration: underline;
 }
 a:visited {
-  color: $secondary-purple;
   text-decoration: none;
 }
 
@@ -409,6 +408,9 @@ img.bio {
 
 .post-title {
   font-size: 1.3em;
+  color: $primary-purple;
+  font-family: "Varela Round", sans-serif;
+  font-weight: 400;
 }
 
 .post-subtitle {
@@ -444,5 +446,36 @@ img.bio {
 .header-and-navbar {
   display: flex;
   flex-direction: row;
+}
+
+
+.main-top-margin {
+  margin-top: 40px;
+}
+
+@media screen and (max-width: 768px) {
+  .blog-main {
+    background-color: white;
+    color: black;
+    width: 100%;
+    padding: 20px 10px 40px 10px;
+  }
+  .blog-main .post {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .blog-main {
+    background-color: white;
+    color: black;
+    width: 100%;
+    padding: 10px 40px 40px 40px;
+  }
+  .blog-main .post {
+    margin: auto;
+    max-width: 960px;
+    padding: 20px 55px 40px 55px;
+  }
 }
 

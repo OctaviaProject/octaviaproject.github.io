@@ -181,7 +181,7 @@ img#logo {
 }
 
 .navbar div#home.active {
-  border-bottom: 5px solid $home-color;
+  text-decoration: underline;
 }
 .navbar div#home a {
   color: $home-color;
@@ -191,7 +191,7 @@ img#logo {
 }
 
 .navbar div#about.active {
-  border-bottom: 5px solid $about-color;
+  text-decoration: underline;
 }
 .navbar div#about a {
   color: $about-color;
@@ -201,7 +201,7 @@ img#logo {
 }
 
 .navbar div#blog.active {
-  border-bottom: 5px solid $blog-color;
+  text-decoration: underline;
 }
 .navbar div#blog a {
   color: $blog-color;
@@ -211,7 +211,7 @@ img#logo {
 }
 
 .navbar div#join.active {
-  border-bottom: 5px solid $join-color;
+  text-decoration: underline;
 }
 .navbar div#join a {
   color: $join-color;
@@ -221,7 +221,7 @@ img#logo {
 }
 
 .navbar div#support.active {
-  border-bottom: 5px solid $support-color;
+  text-decoration: underline;
 }
 .navbar div#support a {
   color: $support-color;

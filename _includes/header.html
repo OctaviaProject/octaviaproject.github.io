@@ -19,10 +19,10 @@
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    
+
       ga('create', 'UA-38395724-2', 'auto');
       ga('send', 'pageview');
-    
+
     </script>
     <script src="{{ site.url }}/assets/js/jquery-1.11.2.min.js"></script>
     <script src="{{ site.url }}/assets/js/bootstrap.min.js"></script>
@@ -37,29 +37,22 @@
   <body>
 
     <div class="container">
-      <div class="header">
-        <img id="logo" src="{{ site.url }}/assets/img/logo_lg.png">
-      </div>
       <div class="navbar row">
-        
-        {% assign current = page.url | downcase | split: '/' %}
-        
-        <div id='home' {% if current[1] == 'index.html' %}class="col-xs-12 col-sm-2 col-sm-offset-1 active"{% else %}class="col-xs-12 col-sm-2 col-sm-offset-1"{% endif %}>
-          <a href="/">Home</a>
+        <div class="col-sm-4">
+          <a href="/"><img id="logo" src="{{ site.url }}/assets/img/logo_lg.png"></a>
         </div>
-        <div id='about' {% if current[1] == 'about.html' %}class="col-xs-12 col-sm-2 active"{% else %}class="col-xs-12 col-sm-2"{% endif %}>
+        {% assign current = page.url | downcase | split: '/' %}
+        <div id='about' {% if current[1] == 'about.html' %}class="col-xs-12 col-sm-2 nav-item active"{% else %}class="col-xs-12 col-sm-2 nav-item"{% endif %}>
           <a href="/about.html">About</a>
         </div>
-        <div id='blog' {% if current[1] == 'blog.html' %}class="col-xs-12 col-sm-2 active"{% else %}class="col-xs-12 col-sm-2"{% endif %}>
+        <div id='blog' {% if current[1] == 'blog.html' %}class="col-xs-12 col-sm-2 nav-item active"{% else %}class="col-xs-12 col-sm-2 nav-item"{% endif %}>
           <a href="/blog.html">Blog</a>
         </div>
-        <div id='join' {% if current[1] == 'join.html' %}class="col-xs-12 col-sm-2 active"{% else %}class="col-xs-12 col-sm-2"{% endif %}>
+        <div id='join' {% if current[1] == 'join.html' %}class="col-xs-12 col-sm-2 nav-item active"{% else %}class="col-xs-12 col-sm-2 nav-item"{% endif %}>
           <a href="/join.html">Join</a>
         </div>
-        <div id='support' {% if current[1] == 'support.html' %}class="col-xs-12 col-sm-2 active"{% else %}class="col-xs-12 col-sm-2"{% endif %}>
+        <div id='support' {% if current[1] == 'support.html' %}class="col-xs-12 col-sm-2 nav-item active"{% else %}class="col-xs-12 col-sm-2 nav-item"{% endif %}>
           <a href="/support.html">Support</a>
         </div>
-        
       </div>
-      
       <div class="main">

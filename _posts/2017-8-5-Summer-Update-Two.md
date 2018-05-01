@@ -10,10 +10,10 @@ coding, bonding, and experimenting that happened in part two of our program.
 Architects Annie Kountz and Jessica Jorge taught us about scale and structure,
 and we made cities with our bodies.
 
+<!--more-->
+
 We learned binary with software engineer Tyler Hoyt, and then used binary and ASCII encoding to weave secret messages
 with our frame looms.
-
-<!--more-->
 
 We continued to have amazing guest speakers, including author NK Jemisin and biologist Adeodat Ilboudo.
 

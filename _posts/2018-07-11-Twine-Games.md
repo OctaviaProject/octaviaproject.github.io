@@ -3,8 +3,8 @@ layout: post
 title: "Pick a Game, Any Game!"
 author: Meghan
 ---
-We'll be making our own Twine games starting tomorrow. In the meantime, check out the games to learn a bit about the 
-program [Twine](https://twinery.org/). 
+**We'll be making our own games starting tomorrow. In the meantime, check out any of the games below to learn a bit about the 
+program [Twine](https://twinery.org/) that we'll be using to make our games.**
 
 [**Birdland**](http://birdland.camp/)<br>
 Trying to save your entire summer camp from weird alien bird monsters is hard work! Click on "About" to see the cast of characters.
@@ -28,7 +28,7 @@ technology conference.
 [**Little Witch Story**](http://forestambassador.com/post/122511107045/little-witch-story-is-a-game-about-magic-and)<br>
 A game about finding your place in a world that’s out to get you, and coming to terms with your identity.
 
-You can also play these super awesome Twine games made by some of last year's OP crew!
+**You can also play these super awesome Twine games made by some of last year's OP crew!**
 
 [**Abbie's Game: A Walk**](http://octaviaproject.org/stories/Abbie%20A%20Walk%20Complete.html)<br>
 Aliens are taking over!  What do you do...?
@@ -38,3 +38,7 @@ A novel turned into a game with a Supernatural, Buffy kind of vibe that vampire 
 
 [**Laila's Game: Night Mentality**](http://octaviaproject.org/stories/Laila-Night%20Mentality-Complete.html)<br>
 You're a a teenager trying to survive the robot-nuclear apocalypse, and escape from the ruined Earth to Mars.
+
+[**Cheyanne's Game: Pray**](http://octaviaproject.org/stories/CHEYANN%20Pray%20Complete.html)<br>
+The game is a thriller focused on the daily happenings of a serial killer called Lillith.
+

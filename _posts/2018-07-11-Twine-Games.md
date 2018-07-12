@@ -3,11 +3,13 @@ layout: post
 title: "Pick a Game, Any Game!"
 author: Meghan
 ---
-We'll be making our own Twine games starting tomorrow. In the meantime, check out these games to learn a bit about the 
-program [Twine](https://twinery.org/).
+We'll be making our own Twine games starting tomorrow. In the meantime, check out the games to learn a bit about the 
+program [Twine](https://twinery.org/). 
 
 [**Birdland**](http://birdland.camp/)<br>
 Trying to save your entire summer camp from weird alien bird monsters is hard work! Click on "About" to see the cast of characters.
+
+<!--more-->
 
 [**Ghost Story**](https://witchglitch.itch.io/ghost-story)<br>
 They come to us... with out a word.

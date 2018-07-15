@@ -28,6 +28,9 @@ technology conference.
 [**Little Witch Story**](http://forestambassador.com/post/122511107045/little-witch-story-is-a-game-about-magic-and)<br>
 A game about finding your place in a world that’s out to get you, and coming to terms with your identity.
 
+[**Ardelia**](http://octaviaproject.org/stories/ardelia.html)<br>
+A game about fighting monsters and blobs to try to get your little brother back.
+
 **You can also play these super awesome Twine games made by some of last year's OP crew!**
 
 [**Abbie's Game: A Walk**](http://octaviaproject.org/stories/Abbie%20A%20Walk%20Complete.html)<br>

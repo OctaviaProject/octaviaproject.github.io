@@ -30,7 +30,7 @@ It was fascinating to build camera obscuras and use them to look at the summer a
 And guest artist Emmy Catedral had us make our own rebuses! Can you figure out what this one says?? 
 (Hint: that creature is an oct<i>opus</i>.)
 
-![rebuses](http://octaviaproject.github.io/img/photos/rebuses.jpg)
+![rebuses](http://octaviaproject.github.io/assets/img/photos/rebuses.jpg)
 
 We've worked together to create incredible things these past two weeks, and we can't wait to 
 see what new stories, worlds, experiments, and magic our teens will make next. Look out for

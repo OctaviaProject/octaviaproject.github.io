@@ -9,7 +9,7 @@ These last few weeks have been full of coding, world-building, and art--and we'r
 
 <!--more-->
 
-Using the program <i>Twine<i> and HTML, we started coding story-based games. We got some help from guest teacher, 
+Using the program <i>Twine</i> and HTML, we started coding story-based games. We got some help from guest teacher, 
 Brooklyn-based product designer, Amélie Lamont.
 
 ![twinework](http://octaviaproject.github.io/assets/img/photos/twinework.jpg)
@@ -19,7 +19,7 @@ incorporated different materials, while learning about where each type of materi
 
 ![weaving](http://octaviaproject.github.io/assets/img/photos/weaving.jpg)
 
-With guest speaker Anaïs Duplan we learned about <i>Afrofuturism<i> (a genre of science fiction that Octavia Butler 
+With guest speaker Anaïs Duplan we learned about <i>Afrofuturism</i> (a genre of science fiction that Octavia Butler 
 helped create!) and imagined our own futures. Guest speakers Andrea and Rocio taught us about 
 the power of positive self-talk.
 
@@ -52,4 +52,4 @@ we've enjoyed together :P
 
 We can't wait to build, play, and create more--and preparations are underway for our 
 Portfolio Showcase on August 3! Look out for a final update next week, when we'll say goodbye 
-to this incredible group of teens :'(
+to this incredible group of teens )':

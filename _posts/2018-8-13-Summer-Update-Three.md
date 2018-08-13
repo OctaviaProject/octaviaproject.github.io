@@ -21,7 +21,7 @@ The rest of the week was dedicated to preparing for our closing event, the Portf
 ![Writing](http://octaviaproject.github.io/assets/img/photos/Writing.jpg)
 
 At the showcase, friends and family got a chance to see our artwork, play our games, and hear our stories and poems. 
-You can catch the performances in this [video](https://www.facebook.com/octaviaprojectnyc/videos/1656641381128670/"target="_blank"). 
+You can catch the performances in this [video](https://www.facebook.com/octaviaprojectnyc/videos/1656641381128670/). 
 We also heard from OP alum Aleiyah about the nonprofit she started! (Kyts for Women, 
 [check 'em out](https://www.instagram.com/kytsforwomen/)!)
 

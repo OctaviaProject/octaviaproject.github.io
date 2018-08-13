@@ -4,10 +4,8 @@ title: "The Start of An Amazing New Summer!"
 author: Bridget
 image: http://octaviaproject.github.io/assets/img/photos/cameraobscura2.jpg
 ---
-Welcome to the start of a new summer at the Octavia Project! We're so excited to give you a taste of all
+Welcome to the start of a new summer at the Octavia Project! <!--more-->We're so excited to give you a taste of all
 the art-making, science, writing, and community-building that's happened in our first two weeks!
-
-<!--more-->
 
 At Orientation, we created our community contract, then made our own journals and inscribed them with personal
 affirmations (just like Octavia Butler did)!

@@ -6,9 +6,9 @@ image: http://octaviaproject.github.io/assets/img/photos/Aleiyah.jpg
 ---
 Our last week at the Octavia Project was busier than ever, and we want to tell you all about it!
 
-<!--more-->
-
 We welcomed two more guest teachers, artist Miatta Kawinzi and literary agent Sarah Bolling...
+
+<!--more-->
 
 ![Miatta](http://octaviaproject.github.io/assets/img/photos/Miatta.jpg)
 

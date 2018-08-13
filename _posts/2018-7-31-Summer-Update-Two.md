@@ -4,8 +4,8 @@ title: "Another Two Weeks of Building, Coding, Imagining!"
 author: Bridget
 image: http://octaviaproject.github.io/assets/img/photos/3dmodels.jpg
 ---
-We're more than halfway through Summer 2018 at the Octavia Project, and it's been flying by! 
-These last few weeks have been full of coding, world-building, and art--and we're excited to share it all with you now.
+We're more than halfway through Summer 2018, and it's been flying by! These last few weeks have been 
+full of coding, world-building, and art--and we're excited to share it all with you now.
 
 <!--more-->
 

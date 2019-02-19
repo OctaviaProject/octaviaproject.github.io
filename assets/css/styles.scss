@@ -301,14 +301,24 @@ img.bio {
 }
 
 #donate-button {
-    background-color: #FFB499;
-    color: darkslategray;
-    font-weight: bold;
-    width: 100px;
-    height: 50px;
+    background-color: #df906d;
+    width: 130px;
+    height: 60px;
+    font-size: 1.2em;
     border-radius: 10px;
     border: 0px;
     margin-bottom: 20px;
+
+    font-weight: bold;
+    letter-spacing: normal;
+    line-height: 100%;
+    text-align: center;
+    text-decoration: none;
+    color: #FFFFFF;
+    mso-line-height-rule: exactly;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    display: block;
 }
 
 .game-grid {

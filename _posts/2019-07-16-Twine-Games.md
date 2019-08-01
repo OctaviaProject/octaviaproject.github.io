@@ -3,13 +3,31 @@ layout: post
 title: "Pick a Game, Any Game!"
 author: Meghan
 ---
-**We'll be making our own games starting tomorrow. In the meantime, check out any of the games below to learn a bit about the 
+**We'll be making our own games starting today. In the meantime, check out any of the games below to learn a bit about the 
 program [Twine](https://twinery.org/) that we'll be using to make our games.**
+
+<!--more-->
+
+[**Queers at the end of the world**](https://w.itch.io/end-of-the-world)<br>
+A poetic example of plot constraint 
+
+[**The tiniest room**](https://erik108.itch.io/the-tiniest-room)<br>
+Puzzle game featuring an escape room.  What if...
+
+[**The uncle who works for nintendo**](https://ztul.itch.io/the-uncle-who-works-for-nintendo)<br>
+A story based game--note that it's a scary story!
+
+[**You are standing at a crossroads**](http://astriddalmady.com/crossroads.html)<br>
+Sometimes you'll make a choice, sometimes you won't. Genre: horror! 
+
+[**Creatures such as we**](https://www.choiceofgames.com/creatures-such-as-we/)<br>
+A story about dating, featuring a game within a game!
+
+[**With Those We Love Alive**](http://slimedaughter.com/games/twine/wtwla/)<br>
+Note the content warning at the start of the game!
 
 [**Birdland**](http://birdland.camp/)<br>
 Trying to save your entire summer camp from weird alien bird monsters is hard work! Click on "About" to see the cast of characters.
-
-<!--more-->
 
 [**Ghost Story**](https://witchglitch.itch.io/ghost-story)<br>
 They come to us... with out a word.

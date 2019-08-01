@@ -1,5 +1,17 @@
+---
+layout: post
+title: Our Twines
+author: Meghan
+---
+
 Our Twine games from Octavia Project Summer Institute 2019
 
-[Alex](octaviaproject.org/stories/Alex.html)
+<!--more-->
+
+[Alex](http://octaviaproject.org/stories/Alex.html)
+
+Aylín
+
+
 
 asdf

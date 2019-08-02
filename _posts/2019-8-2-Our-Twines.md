@@ -18,7 +18,7 @@ Our Twine games from Octavia Project Summer Institute 2019
 
 [Cheyann](http://octaviaproject.org/stories/CHEYANN.html)
 
-[Destiny}(http://octaviaproject.org/stories/destiny.html)
+[Destiny](http://octaviaproject.org/stories/destiny.html)
 
 [Diamond](http://octaviaproject.org/stories/diamond.html)
 

@@ -30,6 +30,8 @@ Our Twine games from Octavia Project Summer Institute 2019
 
 [Jewelle](http://octaviaproject.org/stories/Jewelle.html)
 
+[Kailee](http://octaviaproject.org/stories/Kailee.html)
+
 [Kiara](http://octaviaproject.org/stories/Kiara.html)
 
 [Maya](http://octaviaproject.org/stories/Maya.html)

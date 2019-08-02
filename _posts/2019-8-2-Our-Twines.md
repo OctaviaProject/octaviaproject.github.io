@@ -40,6 +40,8 @@ Our Twine games from Octavia Project Summer Institute 2019
 
 [Nia](http://octaviaproject.org/stories/Nia.html)
 
+[Rei](https://octaviaproject.org/stories/rei.html)
+
 [Tina](http://octaviaproject.org/stories/Tina.html)
 
 [Vicky](http://octaviaproject.org/stories/Vicky.html)

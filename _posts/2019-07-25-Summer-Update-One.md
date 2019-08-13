@@ -2,7 +2,7 @@
 layout: post
 title: Community building, biology, urban planning & more!
 author: Meghan
-image: /assets/img/photos/2019/outside.jpg
+image: /assets/img/photos/2019/dna.jpg
 ---
 <em>Our 2019 Summer Institute is off and running, bursting at the seams with 22 participants!</em> Week one was busy with biomimicry, book-binding, Octavia Butler, and lots of community building.
 

@@ -20,7 +20,7 @@ To close out the summer, we invited our friends and families to join us for our 
 
 At the Showcase, friends and family were able to look through our [digital portfolios](http://portfolios.octaviaproject.org/), play our [Twine games](https://octaviaproject.org/2019/07/20/Our-Twines.html), and learn more about all the projects we did this summer.
 
-![browsing]({{ site.url }}/assets/img/photos/2019/browsing.png)
+![browsing]({{ site.url }}/assets/img/photos/2019/browsing.jpg)
 
 The event closed with several participants reading their own writing and a ceremony honoring all 20 of our participants and Fellows.
 

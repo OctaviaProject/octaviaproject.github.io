@@ -8,43 +8,43 @@ Our Twine games from Octavia Project Summer Institute 2019
 
 <!--more-->
 
-[Alex](http://octaviaproject.org/stories/Alex.html)
+[Alex](http://portfolios.octaviaproject.org/2019/07/31/mine-twine/)
 
 [Amalineda](http://octaviaproject.org/stories/Amalineda.html)
 
-[Autumn](http://octaviaproject.org/stories/autumn.html)
+[Autumn](http://portfolios.octaviaproject.org/2019/08/01/twine-backend-2/)
 
-[Aylín](http://octaviaproject.org/stories/Aylin.html)
+[Aylín](http://portfolios.octaviaproject.org/2019/07/31/twine-12/)
 
-[Brhea](http://octaviaproject.org/stories/Brhea.html)
+[Brhea](http://portfolios.octaviaproject.org/2019/07/31/the-floridian-frog-my-twine/)
 
-[Cheyann](http://octaviaproject.org/stories/CHEYANN.html)
+[Cheyann](http://portfolios.octaviaproject.org/2019/08/03/twine-steve-the-cloak/)
 
-[Destiny](http://octaviaproject.org/stories/destiny.html)
+[Destiny](http://portfolios.octaviaproject.org/2019/07/31/twine-8/)
 
 [Diamond](http://octaviaproject.org/stories/diamond.html)
 
-[Hazel](http://octaviaproject.org/stories/Hazel.html)
+[Hazel](http://portfolios.octaviaproject.org/2019/07/31/twine-backend/)
 
 [Jada](http://octaviaproject.org/stories/Jada.html)
 
-[Jewelle](http://octaviaproject.org/stories/Jewelle.html)
+[Jewelle](http://portfolios.octaviaproject.org/2019/07/31/twine-9/)
 
-[Kailee](http://octaviaproject.org/stories/Kailee.html)
+[Kailee](http://portfolios.octaviaproject.org/2019/07/31/twine-6/)
 
-[Kiara](http://octaviaproject.org/stories/Kiara.html)
+[Kiara](http://portfolios.octaviaproject.org/2019/08/02/twine-14/)
 
-[Maya](http://octaviaproject.org/stories/Maya.html)
+[Maya](http://portfolios.octaviaproject.org/2019/08/02/twine-15/)
 
-[Megan](http://octaviaproject.org/stories/Megan.html)
+[Megan](http://portfolios.octaviaproject.org/2019/07/31/twine-5/)
 
-[Nia](http://octaviaproject.org/stories/Nia.html)
+[Nia](http://portfolios.octaviaproject.org/2019/07/31/twine-10/)
 
-[Rei](https://octaviaproject.org/stories/rei.html)
+[Rei](http://portfolios.octaviaproject.org/2019/07/31/twine-11/)
 
-[Tina](http://octaviaproject.org/stories/Tina.html)
+[Tina](http://portfolios.octaviaproject.org/2019/07/31/twine-video-of-george-washington/)
 
-[Vicky](http://octaviaproject.org/stories/Vicky.html)
+[Vicky](http://portfolios.octaviaproject.org/2019/08/03/twine-7/)
 
-[Ziyun](http://octaviaproject.org/stories/Ziyun.html)
+[Ziyun](http://portfolios.octaviaproject.org/2019/08/01/twine-13/)
 

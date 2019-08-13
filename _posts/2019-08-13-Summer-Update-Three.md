@@ -2,7 +2,7 @@
 layout: post
 title: Our Portfolio Showcase & final week!
 author: Meghan
-image: /assets/img/photos/2019/nk.jpg
+image: /assets/img/photos/2019/showcase.jpg
 ---
 <em>Our fifth and final week began with a day of activities organized by the Octavia Project Fellows.</em> They kept us busy with Rememberlution jars, games, lanyards, and LOTS of karaoke!
 

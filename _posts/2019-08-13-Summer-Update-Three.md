@@ -18,7 +18,7 @@ To close out the summer, we invited our friends and families to join us for our 
 
 ![showcase]({{ site.url }}/assets/img/photos/2019/showcase.jpg)
 
-At the Showcase, friends and family were able to look through our [digital portfolios](http://portfolios.octaviaproject.org/), play our [Twine games](https://octaviaproject.org/2019/07/20/Our-Twines.html), and learn more about all the projects we did this summer.
+At the Showcase, friends and family were able to look through our [digital portfolios](http://portfolios.octaviaproject.org/), play our [Twine games](/2019/07/20/Our-Twines.html), and learn more about all the projects we did this summer.
 
 ![browsing]({{ site.url }}/assets/img/photos/2019/browsing.jpg)
 

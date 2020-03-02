@@ -10,7 +10,7 @@ Our Twine games from Octavia Project Summer Institute 2019
 
 [Alex](http://portfolios.octaviaproject.org/2019/07/31/mine-twine/)
 
-[Amalineda](http://octaviaproject.org/stories/Amalineda.html)
+[Amalineda](http://octaviaproject.github.io/stories/Amalineda.html)
 
 [Autumn](http://portfolios.octaviaproject.org/2019/08/01/twine-backend-2/)
 
@@ -22,11 +22,11 @@ Our Twine games from Octavia Project Summer Institute 2019
 
 [Destiny](http://portfolios.octaviaproject.org/2019/07/31/twine-8/)
 
-[Diamond](http://octaviaproject.org/stories/diamond.html)
+[Diamond](http://octaviaproject.github.io/stories/diamond.html)
 
 [Hazel](http://portfolios.octaviaproject.org/2019/07/31/twine-backend/)
 
-[Jada](http://octaviaproject.org/stories/Jada.html)
+[Jada](http://octaviaproject.github.io/stories/Jada.html)
 
 [Jewelle](http://portfolios.octaviaproject.org/2019/07/31/twine-9/)
 
